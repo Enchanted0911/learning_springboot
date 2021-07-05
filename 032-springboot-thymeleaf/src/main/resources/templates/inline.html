@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>内联文本</h1>
+<div th:inline="text">
+    数据 : [[${data}]]
+</div>
+<h1>内联脚本</h1>
+<script th:inline="javascript">
+    function showData() {
+        alert([[${data}]])
+    }
+</script>
+<button th:onclick="showData()">展示数据</button>
+</body>
+</html>

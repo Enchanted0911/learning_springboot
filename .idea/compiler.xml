@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="_010-springboot-springmvc" />
+        <module name="020-springboot-java-2" />
+        <module name="014-springboot-dubbo-provider" />
+        <module name="_009-springboot-transaction" />
+        <module name="_002-springboot-yml-yaml" />
+        <module name="_030-springboot-war" />
+        <module name="_001-springboot-first" />
+        <module name="011-springboot-RESTful" />
+        <module name="_019-springboot-java-1" />
+        <module name="017-springboot-dubbo-provider" />
+        <module name="_004-springboot-custom-configuration" />
+        <module name="006-springboot-jsp" />
+        <module name="018-springboot-dubbo-ssm-consumer" />
+        <module name="_003-springboot-multi-environment" />
+        <module name="030-springboot-war" />
+        <module name="007-springboot-mybatis" />
+        <module name="029-springboot-character-encoding-2" />
+        <module name="013-springboot-dubbo-interface" />
+        <module name="023-springboot-interceptor" />
+        <module name="024-springboot-servlet-1" />
+        <module name="027-springboot-filter-2" />
+        <module name="022-springboot-icon-modify" />
+        <module name="016-springboot-dubbo-ssm-interface" />
+        <module name="028-springboot-character-encoding-1" />
+        <module name="005-springboot-custom-configuration-2" />
+        <module name="031-springboot-logback" />
+        <module name="025-springboot-servlet-2" />
+        <module name="026-springboot-filter-1" />
+        <module name="032-springboot-thymeleaf" />
+        <module name="008-springboot-mybatis-2" />
+        <module name="_012-springboot-redis" />
+        <module name="015-springboot-dubbo-consumer" />
+        <module name="021-spriongboot-icon-close" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="005-springboot-custom-configuration-2" target="11" />
+      <module name="006-springboot-jsp" target="11" />
+      <module name="007-springboot-mybatis" target="11" />
+      <module name="008-springboot-mybatis-2" target="11" />
+      <module name="011-springboot-RESTful" target="11" />
+      <module name="013-springboot-dubbo-interface" target="11" />
+      <module name="014-springboot-dubbo-provider" target="11" />
+      <module name="015-springboot-dubbo-consumer" target="11" />
+      <module name="016-springboot-dubbo-ssm-interface" target="11" />
+      <module name="017-springboot-dubbo-provider" target="11" />
+      <module name="018-springboot-dubbo-ssm-consumer" target="11" />
+      <module name="020-springboot-java-2" target="11" />
+      <module name="021-spriongboot-icon-close" target="11" />
+      <module name="022-springboot-icon-modify" target="11" />
+      <module name="023-springboot-interceptor" target="11" />
+      <module name="024-springboot-servlet-1" target="11" />
+      <module name="025-springboot-servlet-2" target="11" />
+      <module name="026-springboot-filter-1" target="11" />
+      <module name="027-springboot-filter-2" target="11" />
+      <module name="028-springboot-character-encoding-1" target="11" />
+      <module name="029-springboot-character-encoding-2" target="11" />
+      <module name="030-springboot-war" target="11" />
+      <module name="031-springboot-logback" target="11" />
+      <module name="032-springboot-thymeleaf" target="11" />
+      <module name="_001-springboot-first" target="11" />
+      <module name="_002-springboot-yml-yaml" target="11" />
+      <module name="_003-springboot-multi-environment" target="11" />
+      <module name="_004-springboot-custom-configuration" target="11" />
+      <module name="_009-springboot-transaction" target="11" />
+      <module name="_010-springboot-springmvc" target="11" />
+      <module name="_012-springboot-redis" target="11" />
+      <module name="_019-springboot-java-1" target="11" />
+      <module name="_030-springboot-war" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="005-springboot-custom-configuration-2" options="-parameters" />
+      <module name="006-springboot-jsp" options="-parameters" />
+      <module name="007-springboot-mybatis" options="-parameters" />
+      <module name="008-springboot-mybatis-2" options="-parameters" />
+      <module name="011-springboot-RESTful" options="-parameters" />
+      <module name="014-springboot-dubbo-provider" options="-parameters" />
+      <module name="015-springboot-dubbo-consumer" options="-parameters" />
+      <module name="017-springboot-dubbo-provider" options="-parameters" />
+      <module name="018-springboot-dubbo-ssm-consumer" options="-parameters" />
+      <module name="020-springboot-java-2" options="-parameters" />
+      <module name="021-spriongboot-icon-close" options="-parameters" />
+      <module name="022-springboot-icon-modify" options="-parameters" />
+      <module name="023-springboot-interceptor" options="-parameters" />
+      <module name="024-springboot-servlet-1" options="-parameters" />
+      <module name="025-springboot-servlet-2" options="-parameters" />
+      <module name="026-springboot-filter-1" options="-parameters" />
+      <module name="027-springboot-filter-2" options="-parameters" />
+      <module name="028-springboot-character-encoding-1" options="-parameters" />
+      <module name="029-springboot-character-encoding-2" options="-parameters" />
+      <module name="030-springboot-war" options="-parameters" />
+      <module name="031-springboot-logback" options="-parameters" />
+      <module name="032-springboot-thymeleaf" options="-parameters" />
+      <module name="_001-springboot-first" options="-parameters" />
+      <module name="_002-springboot-yml-yaml" options="-parameters" />
+      <module name="_003-springboot-multi-environment" options="-parameters" />
+      <module name="_004-springboot-custom-configuration" options="-parameters" />
+      <module name="_009-springboot-transaction" options="-parameters" />
+      <module name="_010-springboot-springmvc" options="-parameters" />
+      <module name="_012-springboot-redis" options="-parameters" />
+      <module name="_019-springboot-java-1" options="-parameters" />
+      <module name="_030-springboot-war" options="-parameters" />
+    </option>
+  </component>
+</project>

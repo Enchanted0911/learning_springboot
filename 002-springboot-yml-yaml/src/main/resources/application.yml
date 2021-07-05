@@ -1,0 +1,6 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /junyao
+
+    #后缀名还可以是yaml 如果和properties配置文件同时存在 只会使用properties配置文件

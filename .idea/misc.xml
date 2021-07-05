@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/030-springboot-war" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/001-springboot-first/pom.xml" />
+        <option value="$PROJECT_DIR$/002-springboot-yml-yaml/pom.xml" />
+        <option value="$PROJECT_DIR$/003-springboot-multi-environment/pom.xml" />
+        <option value="$PROJECT_DIR$/004-springboot-custom-configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/005-springboot-custom-configuration-2/pom.xml" />
+        <option value="$PROJECT_DIR$/006-springboot-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/007-springboot-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/008-springboot-mybatis-2/pom.xml" />
+        <option value="$PROJECT_DIR$/009-springboot-transaction/pom.xml" />
+        <option value="$PROJECT_DIR$/010-springboot-springmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/011-springboot-RESTful/pom.xml" />
+        <option value="$PROJECT_DIR$/012-springboot-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/014-springboot-dubbo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/015-springboot-dubbo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/013-springboot-dubbo-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/016-springboot-dubbo-ssm-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/017-springboot-dubbo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/018-springboot-dubbo-ssm-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/019-springboot-java-1/pom.xml" />
+        <option value="$PROJECT_DIR$/020-springboot-java-2/pom.xml" />
+        <option value="$PROJECT_DIR$/021-spriongboot-icon-close/pom.xml" />
+        <option value="$PROJECT_DIR$/022-springboot-icon-modify/pom.xml" />
+        <option value="$PROJECT_DIR$/023-springboot-interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/024-springboot-servlet-1/pom.xml" />
+        <option value="$PROJECT_DIR$/025-springboot-servlet-2/pom.xml" />
+        <option value="$PROJECT_DIR$/026-springboot-filter-1/pom.xml" />
+        <option value="$PROJECT_DIR$/027-springboot-filter-2/pom.xml" />
+        <option value="$PROJECT_DIR$/028-springboot-character-encoding-1/pom.xml" />
+        <option value="$PROJECT_DIR$/029-springboot-character-encoding-2/pom.xml" />
+        <option value="$PROJECT_DIR$/028-springboot-war/pom.xml" />
+        <option value="$PROJECT_DIR$/030-springboot-war/pom.xml" />
+        <option value="$PROJECT_DIR$/031-springboot-logback/pom.xml" />
+        <option value="$PROJECT_DIR$/032-springboot-thymeleaf/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
